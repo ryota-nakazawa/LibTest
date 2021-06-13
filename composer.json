@@ -9,5 +9,11 @@
     "psr-4": {
       "Wetch\\Laralib\\": "sample/"
     }
+  },
+  "repositories": {
+    "laralib": {
+      "type": "vcs",
+      "url": "https://https://github.com/ryota-nakazawa/LibTest.git/root/laralib.git"
+    }
   }
 }
